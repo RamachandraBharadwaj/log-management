@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a Log Management and Anomaly Detection system designed to process, analyze, and detect anomalies in server log data. The system provides an API to interact with log data, detect anomalies in real-time, and provide insights based on user queries. Additionally, it supports WebSocket communication for real-time log monitoring and analysis.
 
+## video showcase : https://www.youtube.com/watch?v=M0iWqlfT5dY
+
 ## Features
 - **Log Management**: Manage server logs, including timestamp, IP, method, URL, status code, and other relevant details.
 - **Anomaly Detection**: Use machine learning techniques like Isolation Forest to detect anomalies in incoming log data.
